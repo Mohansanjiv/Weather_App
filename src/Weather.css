@@ -1,0 +1,14 @@
+.weather-cards {
+  display: flex;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.weather-card {
+  background-color: aqua;
+  padding: 16px;
+  border-radius: 8px;
+  width: 150px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
